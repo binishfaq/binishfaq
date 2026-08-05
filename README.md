@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Zain 👋</h1>
+<h1 align="center">Hi there, I'm Zain</h1>
 
 <h3 align="center">A MERN Stack Developer crafting full-stack web experiences</h3>
 
