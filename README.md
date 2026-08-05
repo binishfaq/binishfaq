@@ -3,11 +3,11 @@
 <h3 align="center">A MERN Stack Developer crafting full-stack web experiences</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+%2B+Express+%2B+MongoDB;Building+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=600&lines=React+%2B+Node.js+%2B+Express+%2B+MongoDB;Building+clean%2C+scalable+web+apps;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=binishfaq&label=Profile%20Views&color=7AA2F7&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=binishfaq&label=Profile%20Views&color=FF6EC7&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -52,16 +52,16 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=binishfaq&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishfaq&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=binishfaq&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishfaq&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=binishfaq&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=binishfaq&theme=synthwave&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binishfaq&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=binishfaq&theme=synthwave-84&hide_border=true" alt="Activity Graph"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=binishfaq&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=binishfaq&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 ---
@@ -77,7 +77,7 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 ### ✍️ Dev Quote
 
 <p align="left">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=synthwave" alt="Random Dev Quote"/>
 </p>
 
 ---
