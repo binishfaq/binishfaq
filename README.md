@@ -66,14 +66,6 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy-winning.vercel.app/?username=binishfaq&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
-</p>
-
----
-
 ### ✍️ Dev Quote
 
 <p align="left">
