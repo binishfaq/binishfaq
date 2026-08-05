@@ -52,8 +52,8 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=binishfaq&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=binishfaq&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=binishfaq&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=binishfaq&layout=compact&theme=synthwave&hide_border=true&include_all_commits=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="left">
@@ -69,7 +69,7 @@ I'm a full-stack developer who works primarily with the MERN stack — React on 
 ### 🏆 GitHub Trophies
 
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=binishfaq&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy-winning.vercel.app/?username=binishfaq&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10" alt="Trophies"/>
 </p>
 
 ---
